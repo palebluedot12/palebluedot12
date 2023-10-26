@@ -1,5 +1,4 @@
-### Sangmin Kim ╰(*°▽°*)╯
----
+# Sangmin Kim ╰(*°▽°*)╯
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -9,4 +8,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=palebluedot12&show_icons=true&theme=onedark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm524233)](https://solved.ac/sm524233/)
+
 
