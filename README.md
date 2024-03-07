@@ -7,8 +7,8 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=palebluedot12&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palebluedot12&layout=compact&theme=onedark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm524233)](https://solved.ac/sm524233/) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palebluedot12&layout=compact&theme=onedark) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sm524233)](https://solved.ac/sm524233/) 
 
 
 
